@@ -1,0 +1,23 @@
+{
+  "name": "primeiraapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicoly2002/PrimeiraApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicoly2002/PrimeiraApi/issues"
+  },
+  "homepage": "https://github.com/Nicoly2002/PrimeiraApi#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
